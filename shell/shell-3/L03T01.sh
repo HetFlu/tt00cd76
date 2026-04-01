@@ -12,5 +12,3 @@ echo "----- Tallennetut arvot -----"
 for i in "${!values[@]}"; do
     echo "$i: ${values[$i]}"   # Tulostetaan index: value
 done
-
-ei toimi halo
