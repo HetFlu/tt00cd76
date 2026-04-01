@@ -6,5 +6,5 @@ count_objects() {
     echo "Hakemistossa on $count objektia"
 }
 
-# Kutsutaan funktiota
+# Kutsuu funktiota
 count_objects
