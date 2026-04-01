@@ -1,4 +1,3 @@
-
 count_objects() {
     local dirs=("$@")
 
