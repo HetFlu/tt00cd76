@@ -12,7 +12,7 @@ count_objects() {
     done
 }
 
-# Kysytään käyttäjältä polkuja
+# Kysyy käyttäjältä polkuja
 paths=()
 
 echo "Anna polkuja (exit lopettaa):"
