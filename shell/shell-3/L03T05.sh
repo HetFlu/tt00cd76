@@ -1,5 +1,4 @@
 # --- LASKINFUNKTIOT ---
-
 summa() {
     echo $(($1 + $2))
 }
