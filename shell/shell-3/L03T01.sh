@@ -13,4 +13,4 @@ for i in "${!values[@]}"; do
     echo "$i: ${values[$i]}"   # Tulostetaan index: value
 done
 
-ei toimi
+ei toimi halo
